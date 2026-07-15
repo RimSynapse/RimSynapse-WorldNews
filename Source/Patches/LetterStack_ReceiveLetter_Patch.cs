@@ -5,7 +5,7 @@ using RimWorld;
 namespace RimSynapse.WorldNews.Patches
 {
     [HarmonyPatch(typeof(LetterStack), "ReceiveLetter")]
-    [HarmonyPatch(new[] { typeof(Letter), typeof(string) })]
+    [HarmonyPatch(new[] { typeof(Letter), typeof(string), typeof(int), typeof(bool) })]
     public static class LetterStack_ReceiveLetter_Patch
     {
         public static void Postfix(Letter let)
