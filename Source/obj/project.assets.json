@@ -464,11 +464,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\github\\RimSynapse-WorldNews\\Source\\RimSynapseWorldNews.csproj",
+      "projectUniqueName": "d:\\github\\rimsynapse\\WorldNews\\Source\\RimSynapseWorldNews.csproj",
       "projectName": "RimSynapseWorldNews",
-      "projectPath": "d:\\github\\RimSynapse-WorldNews\\Source\\RimSynapseWorldNews.csproj",
+      "projectPath": "d:\\github\\rimsynapse\\WorldNews\\Source\\RimSynapseWorldNews.csproj",
       "packagesPath": "C:\\Users\\sealt\\.nuget\\packages\\",
-      "outputPath": "d:\\github\\RimSynapse-WorldNews\\Source\\obj\\",
+      "outputPath": "d:\\github\\rimsynapse\\WorldNews\\Source\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sealt\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -512,7 +512,7 @@
             "version": "[13.0.3, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.422\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.423\\RuntimeIdentifierGraph.json"
       }
     }
   }

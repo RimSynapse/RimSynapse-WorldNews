@@ -3,7 +3,7 @@
     <name>RimSynapse - WorldNews</name>
     <author>RimSynapse Team</author>
     <packageId>RimSynapse.WorldNews</packageId>
-    <url>https://github.com/RimSynapse/RimSynapse-WorldNews</url>
+    <url>https://github.com/RimSynapse/WorldNews</url>
     <modVersion>0.3.0</modVersion>
     <supportedVersions>
         <li>1.5</li>
@@ -13,7 +13,7 @@
         <li>
             <packageId>RimSynapse.Core</packageId>
             <displayName>RimSynapse - Core</displayName>
-            <downloadUrl>https://github.com/RimSynapse/RimSynapse-Core/releases/latest</downloadUrl>
+            <downloadUrl>https://github.com/RimSynapse/Core/releases/latest</downloadUrl>
             <steamWorkshopUrl>steam://url/CommunityFilePage/3760829776</steamWorkshopUrl>
         </li>
     </modDependencies>
