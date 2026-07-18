@@ -1,10 +1,26 @@
 [h1]RimSynapse - WorldNews[/h1]
-[b]Companion Mod for RimSynapse.[/b]
-Makes the RimWorld feel alive, reactive, and historically grounded by acting as the local journalist and gossip mill for the planet. Generates dynamic newspapers based on real events in your game.
+[b]A dynamic newspaper that reports on colony gossip, psychological breaks, and geopolitical shifts using Large Language Models.[/b]
 
-[h2]Changelog[/h2]
-[b]v0.4.0[/b]
-- Updated to support RimSynapse Core v0.4.0 (Multi-provider routing and Image generation).
+Bring the Rim to life with a local tabloid! WorldNews acts as a dynamic journalist, generating newspaper pages based on the actual history, wars, romances, and breakdowns occurring in your game.
+
+---
+
+[h2]Key Features[/h2]
+[list]
+[*] [b]Dynamic Tabloid Reporting:[/b] Read generated articles covering marriage events, theological schisms, and dramatic pawn breakdowns.
+[*] [b]Global News Columns:[/b] Reports on distant faction territory shifts, wars, and noble ascensions.
+[*] [b]Historical Grounding:[/b] Integrates with all other RimSynapse companion mods to print gossip and headlines about your pawns' psychological events.
+[/list]
+
+---
+
+[h2]Changelog (v0.5.0)[/h2]
+[list]
+[*] [b]Odyssey Integration:[/b] News columns will report on orbital events, satellite broadcasts, and space-faring guilds.
+[*] [b]Formatting Adjustments:[/b] General stability and typo fixes on newspaper columns.
+[/list]
+
+---
 
 [h2]Compatibility Matrix[/h2]
 [list]
@@ -16,7 +32,16 @@ Makes the RimWorld feel alive, reactive, and historically grounded by acting as 
 [*] [b]RimSynapse - Psychology:[/b] Compatible and Optional. Newspapers will gossip about your colonists' psychological breakdowns and dramatic therapy sessions.
 [/list]
 
+---
+
 [h2]Requirements[/h2]
 [list]
-[*] [b]RimSynapse - Core[/b] (Must be loaded before this mod)
+[*] RimSynapse - Core (Must be loaded before this mod)
+[*] Harmony
 [/list]
+
+---
+
+[h2]Open Source & Support[/h2]
+GitHub: [url]https://github.com/RimSynapse/WorldNews[/url]
+Buy me a coffee: [url]https://buymeacoffee.com/archdukejim[/url]
