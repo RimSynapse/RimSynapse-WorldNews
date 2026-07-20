@@ -14,10 +14,9 @@ Bring the Rim to life with a local tabloid! WorldNews acts as a dynamic journali
 
 ---
 
-[h2]Changelog (v0.5.0)[/h2]
+[h2]Changelog (v0.5.1)[/h2]
 [list]
-[*] [b]Odyssey Integration:[/b] News columns will report on orbital events, satellite broadcasts, and space-faring guilds.
-[*] [b]Formatting Adjustments:[/b] General stability and typo fixes on newspaper columns.
+[*] [b]Playtest Improvements:[/b] General stability enhancements and compatibility optimizations for playtesting.
 [/list]
 
 ---
